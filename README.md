@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyannaB
 - 👀 I’m interested in learning and expanding my knowledge on software engineering, web design, and danc!
-- 🌱 I’m currently learning cyber security and practiving my programming.
+- 🌱 I’m currently in school for Computational Science & Engineering with a minor in cyber security and practicing my programming.
 - 📫 How to reach me ...
       Email: a.burrowes529@gmail.com
 
