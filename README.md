@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AyannaB
-- 👀 I’m interested in learning and expanding my knowledge on software engineering, web design, and danc!
-- 🌱 I’m currently in school for Computational Science & Engineering with a minor in cyber security and practicing my programming.
+- 👀 I’m interested in learning and expanding my knowledge on software engineering, web design, and dance!
+- 🌱 I’m a college graduate who Computational Science & Engineering with a minor in cyber security.
+- 🌱 I've completed the Rutgers Coding Bootcamp and received my Certification in Full-Stack Development. 
+- 🌱 I'm practicing my programming skills and obtaining certifications.
 - 📫 How to reach me ...
       Email: a.burrowes529@gmail.com
 
